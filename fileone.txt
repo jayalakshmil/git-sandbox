@@ -1,2 +1,8 @@
 The first commit to the file. this line will be committed to the reposit..
 this changes to the commit...
+
+
+
+
+to presist the changes directly withoout putting the changes to the staging area...
+
